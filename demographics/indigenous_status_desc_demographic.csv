@@ -1,0 +1,26 @@
+period,indigenous_status_desc,proportion
+t0,04 Neither Aboriginal nor Torres Strait Islander origin,0.9891406288563108
+t0,01 Aboriginal but not Torres Strait Islander origin,0.005775211017325633
+t0,08 Declined to respond,0.0026161212300705857
+t0,09 Unknown,0.0015795448936275235
+t0,03 Both Aboriginal and Torres Strait Islander origin,0.0006416901130361814
+t0,02 Torres Strait Islander but not Aboriginal origin,0.00024680388962930054
+t1,04 Neither Aboriginal nor Torres Strait Islander origin,0.9895498392282959
+t1,08 Declined to respond,0.00522508038585209
+t1,01 Aboriginal but not Torres Strait Islander origin,0.003617363344051447
+t1,02 Torres Strait Islander but not Aboriginal origin,0.0008038585209003215
+t1,03 Both Aboriginal and Torres Strait Islander origin,0.00040192926045016077
+t1,09 Unknown,0.00040192926045016077
+t2,04 Neither Aboriginal nor Torres Strait Islander origin,0.9887660808117412
+t2,01 Aboriginal but not Torres Strait Islander origin,0.007157093676390651
+t2,08 Declined to respond,0.003623844899438304
+t2,03 Both Aboriginal and Torres Strait Islander origin,0.0002717883674578728
+t2,09 Unknown,9.05961224859576e-05
+t2,02 Torres Strait Islander but not Aboriginal origin,9.05961224859576e-05
+t3,04 Neither Aboriginal nor Torres Strait Islander origin,0.9849274171128812
+t3,09 Unknown,0.008182949971595374
+t3,01 Aboriginal but not Torres Strait Islander origin,0.004375521255121898
+t3,08 Declined to respond,0.0012933170560719422
+t3,Error,0.0005439183880676392
+t3,03 Both Aboriginal and Torres Strait Islander origin,0.0005076571621964633
+t3,02 Torres Strait Islander but not Aboriginal origin,0.00016921905406548778
